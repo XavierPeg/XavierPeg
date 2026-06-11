@@ -8,10 +8,10 @@
 💻 Desarrollador full-stack
 <br>
 📫 Contacto: **xavierpeg04@gmail.com**  
-
+<br>
 <p>
   Desarrollador web Full-Stack con formación en DAW y experiencia práctica configurando entornos Linux, programando en JavaScript, PHP, C# y Java, y trabajando con bases de datos SQL y MongoDB. 
-  <br>
+  <br><br>
   He colaborado en entornos profesionales reales, tanto en soporte técnico como en proyectos de automatización con drones. Busco incorporarme a un equipo donde pueda seguir creciendo y aportar soluciones funcionales y      creativas desde el primer día.
 </p>
 </div>
