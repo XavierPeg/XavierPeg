@@ -18,20 +18,24 @@
 
 <br>
 
-<h1 align=center>Tecnologías conocidas👨🏻‍💻</h1>
+<h1 align=center>Tecnologías conocidas</h1>
 <!--tech stack icons-->
-<div align=center>
+<div align=left>
    <h3>Frontend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vue&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vue,pinia&theme=light" />
   </a>
   <h3>Backend</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,postman,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=laravel,java,cs,postman,docker,py&theme=light" />
+  </a>
+  <h3>DataBases</h3>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sql,mysql,mongodb&theme=light" />
   </a>
     <h3>Tools</h3>
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,linkedin&theme=light" />
   </a>
   </div>
 <br>
