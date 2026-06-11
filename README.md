@@ -8,7 +8,7 @@
 💻 Desarrollador full-stack
 <br>
 📫 Contacto: **xavierpeg04@gmail.com**  
-<br>
+<br><br>
 <p>
   Desarrollador web Full-Stack con formación en DAW y experiencia práctica configurando entornos Linux, programando en JavaScript, PHP, C# y Java, y trabajando con bases de datos SQL y MongoDB. 
   <br><br>
@@ -31,11 +31,11 @@
   </a>
   <h3>Backend</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,java,cs,postman,docker,py&theme=light" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,cs,postman,docker,py&theme=light" />
   </a>
   <h3>DataBases</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sql,mysql,mongodb&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
   </a>
     <h3>Tools</h3>
      <a href="https://skillicons.dev">
